@@ -1,11 +1,10 @@
 title: Debug Pico code
 hero_image: images/banner.png
-description: debug-pico-code description
+description: Tips for debugging MicroPython code for the Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-03-07"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Debug Pico code
+
