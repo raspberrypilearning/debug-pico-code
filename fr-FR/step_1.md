@@ -1,4 +1,4 @@
-+ Check the Shell in Thonny for error messages.
-+ Check carefully for mistakes in your code such as a missing ':' or incorrect indentation.
-+ Make sure you have imported the components that you are using such as 'Button' or 'RGBLED'
-+ Add `print` statements to help you understand what is happening such as `print('Starting')` or `print('Setting colour to green')`. 
++ Vérifie la Console dans Thonny pour les messages d'erreur.
++ Vérifie attentivement les erreurs dans ton code, comme un ':' manquant ou une indentation incorrecte.
++ Assure-toi d'avoir importé les composants que tu utilises tels que 'Button' ou 'RGBLED'
++ Ajoutez des déclarations `print` pour t'aider à comprendre ce qui se passe comme `print('Starting')` ou `print('Setting color to green')`. 
