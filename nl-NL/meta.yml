@@ -1,6 +1,6 @@
 title: Debug Pico code
 hero_image: images/banner.png
-description: Tips for debugging MicroPython code for the Raspberry Pi Pico
+description: Tips voor foutopsporing van MicroPython code voor de Raspberry Pi Pico
 version: 4
 listed: false
 copyedit: false
