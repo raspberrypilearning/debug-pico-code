@@ -1,0 +1,11 @@
+---
+title: Déboguer le code Pico
+hero_image: images/banner.png
+description: Conseils pour déboguer le code MicroPython pour le Raspberry Pi Pico
+version: 4
+listed: false
+copyedit: false
+last_tested: "2022-03-07"
+steps:
+  - title: Déboguer le code Pico
+
